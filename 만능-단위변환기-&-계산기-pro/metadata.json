@@ -1,6 +1,0 @@
-{
-  "name": "만능 단위변환기 & 계산기 Pro",
-  "description": "일반 사칙연산 계산기, 길이/무게/넓이/부피/온도/데이터 단위변환, 평수 환산, 퍼센트 계산, 연봉 실수령액 계산, 공학용 수식 및 방정식 풀이를 지원하는 검색 최적화 계산기",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
